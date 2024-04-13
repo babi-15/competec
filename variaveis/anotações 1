@@ -1,0 +1,27 @@
+char= uma unica caracteristica 'b'
+int= numeros sem casa decimais
+float alturaEmmetros = 1.52; numeros decimais "pequenos"
+boolean tomoucafe = false; 
+
+idade++;
+idade = idade + 10;
+
+idade--;
+idae = idade - 10;
+
+
+SOMA
+ float laranja = 2.00f;
+        float uva = 0.50f;
+        float precototal = laranja+uva;
+
+        soma = laranja + uva;
+        
+        
+        System.out.print("PREÇO TOTAL= " +precototal);
+        System.out.println("preço total= " +precototal);
+
+        float laranja = 2.00f;
+        float uva = 0.50f;
+
+        int idade = sc.nextInt();
